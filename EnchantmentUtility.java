@@ -1,5 +1,3 @@
-import com.lewdmc.util.EnchantmentWrapper;
-import com.lewdmc.util.Reflex;
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderSet;
 import net.minecraft.core.MappedRegistry;
